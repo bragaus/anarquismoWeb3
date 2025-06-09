@@ -47,25 +47,6 @@ Cada pasta segue um formato padrão:
 
 ---
 
-## ⚙️ Como Usar
-
-1. Clone o projeto:
-   ```bash
-   git clone https://github.com/bragaus/PENTEST-PROFISSIONAL-DESEC.git
-   ```
-
-2. Acesse um módulo:
-   ```bash
-   cd PENTEST-PROFISSIONAL-DESEC/Módulo-01-Reconhecimento
-   ```
-
-3. Execute scripts ou leia os relatórios:
-   ```bash
-   ./scripts/recon.sh
-   ```
-
----
-
 ## 🎯 Objetivos
 
 ✔️ Consolidar o conteúdo prático do curso da DESEC  
@@ -98,12 +79,6 @@ Cada pasta segue um formato padrão:
 ## 🧠 Filosofia Hacker
 
 > *“Invadir não é só entrar — é entender. É observar o sistema como um ser vivo e achar o ponto onde ele respira mais fraco.”*
-
----
-
-## 📜 Licença
-
-Este repositório está licenciado sob a [Licença MIT](./LICENSE).
 
 ---
 
