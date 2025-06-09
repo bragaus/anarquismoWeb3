@@ -1,97 +1,118 @@
-## 🛡️ PENTEST PROFISSIONAL - DESEC
 
-> Repositório pessoal de estudos, anotações e códigos sobre **Pentest Profissional**, Offensive Security, Red Team e Ethical Hacking.
-> Inspirado nos padrões e metodologias da [Desec Security](https://desec.com.br), OSCP, e certificações internacionais.
+# 🧠⚔️ PENTEST PROFISSIONAL – DESEC SECURITY
 
----
-
-### 🧠 Objetivo
-
-Este repositório serve como um **hub de conhecimento prático e teórico**, voltado para o desenvolvimento de habilidades profissionais em **teste de intrusão**, **análise de vulnerabilidades**, **exploits**, **engenharia reversa**, e **fases completas do pentest**.
+> *"A segurança é uma ilusão confortável. Estou aqui pra provar isso."*  
+> — Braga Us, artista do exploit
 
 ---
 
-### 📂 Estrutura do Repositório
+## 🌌 Visão Geral
+
+Este repositório é meu diário de bordo durante o curso **Pentest Profissional** da [DESEC Security](https://desecsecurity.com/). Aqui registro técnicas, scripts, relatórios e estudos aplicados de segurança ofensiva — não como simples teoria, mas como a prática crua de quem vê a TI como território de guerra digital.
+
+Assim como no meu repositório de matemática, este espaço mistura conhecimento técnico com visão artística: cada módulo é uma fase, cada exploit é uma linha de código poético que desafia sistemas e realidades.
+
+---
+
+## 📁 Estrutura Geral
 
 ```
-📁 FASES_DO_PENTEST/
-🔁️ 01_Reconhecimento/
-🔁️ 02_Enumeração/
-🔁️ 03_Exploração/
-🔁️ 04_Pós_Exploração/
-🔁️ 05_Relatórios/
-
-📁 FERRAMENTAS/
-🔁️ nmap/
-🔁️ gobuster/
-🔁️ metasploit/
-🔁️ burpsuite/
-...
-
-📁 LABS/
-🔁️ HackTheBox/
-🔁️ TryHackMe/
-🔁️ VulnHub/
-
-📁 CTFs/
-🔁️ picoCTF/
-🔁️ Root-Me/
-
-📁 ANOTAÇÕES/
-🔁️ Linux_PrivEsc.md
-🔁️ Windows_PrivEsc.md
-🔁️ Web_Attacks.md
-🔁️ Exploit_Development.md
-...
+PENTEST-PROFISSIONAL-DESEC/
+│
+├── Módulo-01-Reconhecimento/
+│   ├── README.md
+│   ├── scripts/
+│   └── reports/
+│
+├── Módulo-02-Escaneamento/
+│   ├── README.md
+│   ├── scripts/
+│   └── reports/
+│
+├── Módulo-03-Enumeração/
+│   └── ...
+│
+├── relatório-final/
+│   ├── relatorio-pentest-desec.pdf
+│   └── evidencias/
+│
+├── LICENSE
+└── README.md ← você está aqui
 ```
 
----
-
-### 🔥 O que você vai encontrar aqui?
-
-* 📘 Apostilas e anotações de aulas/cursos
-* 🔧 Cheatsheets para ferramentas
-* 🧪 Hands-on com labs (HTB, THM, VulnHub)
-* 🚀 Exploits customizados
-* 📚 Teoria aplicada
-* 📓 Relatórios simulando pentests reais
+Cada pasta segue um formato padrão:
+- `README.md`: descrição do módulo e técnicas aprendidas.
+- `scripts/`: automações feitas por mim em Bash, Python ou outras linguagens.
+- `reports/`: evidências coletadas, logs, capturas de tela e análises.
 
 ---
 
-### ⚧️ Em andamento...
+## ⚙️ Como Usar
 
-*
+1. Clone o projeto:
+   ```bash
+   git clone https://github.com/bragaus/PENTEST-PROFISSIONAL-DESEC.git
+   ```
 
----
+2. Acesse um módulo:
+   ```bash
+   cd PENTEST-PROFISSIONAL-DESEC/Módulo-01-Reconhecimento
+   ```
 
-### 🎯 Objetivo final
-
-Criar um repositório **completo, técnico e direto ao ponto**, para me tornar um profissional de pentest certificado e contribuir com a comunidade.
-
----
-
-### 🧬 Influências e fontes
-
-* [Desec Security](https://desec.com.br)
-* [OSCP / Offensive Security](https://www.offsec.com/)
-* [Hack The Box](https://www.hackthebox.com/)
-* [TryHackMe](https://tryhackme.com/)
-* [GTFOBins](https://gtfobins.github.io/)
-* [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+3. Execute scripts ou leia os relatórios:
+   ```bash
+   ./scripts/recon.sh
+   ```
 
 ---
 
-### ⚔️ Hacker que estuda não depende só de ferramenta
+## 🎯 Objetivos
 
-> "Conhecimento é a melhor ferramenta no arsenal de um pentester."
-
----
-
-### 📬 Contato
-
-Me encontre no [LinkedIn](https://www.linkedin.com/in/matheus-braga-91264932b/).
+✔️ Consolidar o conteúdo prático do curso da DESEC  
+✔️ Produzir um relatório profissional com evidências reais  
+✔️ Automatizar técnicas com meus próprios scripts  
+✔️ Criar uma base pública para aprendizado, revisão e contribuição
 
 ---
 
-Se curtir, ⭐ dá uma estrela no repositório!
-Contribuições e sugestões são sempre bem-vindas!
+## 🔧 Tecnologias & Ferramentas
+
+- 🧰 **Nmap**, **Nikto**, **Gobuster**
+- 🐍 **Python** (scripts personalizados)
+- 💣 **Metasploit Framework**
+- 🕵️‍♂️ **Burp Suite**, **Wappalyzer**
+- 🐧 Linux (Kali / Parrot)
+
+---
+
+## 🛠️ A fazer
+
+- [ ] Adicionar `Makefile` com instalação de dependências
+- [ ] Configurar GitHub Actions para testes de scripts
+- [ ] Criar modelos de relatórios `.md` para cada módulo
+- [ ] Adicionar vídeos demonstrativos ou GIFs dos scripts em ação
+- [ ] Badge de status no topo do README
+
+---
+
+## 🧠 Filosofia Hacker
+
+> *“Invadir não é só entrar — é entender. É observar o sistema como um ser vivo e achar o ponto onde ele respira mais fraco.”*
+
+---
+
+## 📜 Licença
+
+Este repositório está licenciado sob a [Licença MIT](./LICENSE).
+
+---
+
+## 🤝 Contribuições
+
+Este projeto é pessoal, mas toda forma de colaboração, sugestão ou correção é bem-vinda. Abra uma *issue* ou envie um *pull request*.
+
+---
+
+**Braga Us**  
+Pentester em formação • Hacker por vocação • Artista por natureza  
+🚀 `exodus://math/code/exploit`
