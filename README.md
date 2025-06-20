@@ -1,6 +1,6 @@
 # 🛸 We are fsociety. 🛰️
 
-> **Projeto pessoal de estudo** | **Plano Artístico Hacker Edition**
+> **Projeto pessoal de estudo** |
 
 ---
 
