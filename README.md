@@ -1,14 +1,14 @@
 # 🛸 We are fsociety. 🛰️
 
-> **Projeto pessoal de estudo** | 
+> **Projeto pessoal de estudo** | **Plano Artístico Hacker Edition**
 
 ---
 
 ## 📚 Estrutura dos Estudos
 
 | 🔢 Módulo | 📂 Conteúdo | 📌 Status |
-|------|---------|--------|-------------- |
-| 01 | [📎 TCP/IP para Pentesters](./tcp_ip_para_pentesters/README.md) | 🔓 | 
+|------|---------|--------|
+| 01 | [📎 TCP/IP para Pentesters](./tcp_ip_para_pentesters/README.md) | 🔓 |
 | 02 | Analisadores de Protocolos | 🔓 |
 | 03 | Bash Scripting (Linux) | 🔓 |
 | 04 | PowerShell para Pentesters | 🔓 |
@@ -55,14 +55,16 @@
 
 ## 📈 Evolução Contínua
 
-Este repositório será atualizado conforme eu avanço nos módulos, realizo labs e enfrento desafios reais.  
+Este repositório será atualizado conforme eu avanço nos módulos, realizo labs e enfrento desafios reais.
 
 ---
 
 ## 🔗 Conexões
 
 | 📡 Plataforma | 🌐 Link |
+|---|---|
 | Desec Academy | [https://desecsecurity.com](https://desecsecurity.com) |
+
 ---
 
 ## ⚠️ Disclaimer
