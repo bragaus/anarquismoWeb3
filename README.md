@@ -14,7 +14,7 @@ O espírito anárquico **não é bagunça**, é **ordem sem dono**.
 É uma recusa em se submeter cegamente a hierarquias, governos ou normas que sufocam o potencial humano.  
 Não é sobre caos pelo caos — é sobre **autonomia radical**, **liberdade plena**, **ação direta**.
 
-> *"Nenhum deus. Nenhum mestre. Apenas o fogo do livre-arbítrio queimando sob a pele."*
+> *"Nenhum mestre. Apenas o fogo do livre-arbítrio queimando sob a pele."*
 
 O anarquista quer viver **sem coleira e sem patrão**,  
 em redes de colaboração horizontal, onde a ética nasce do consenso  
