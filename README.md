@@ -112,10 +112,6 @@ Ele pode estar:
 | 29 | Pentest Web: Web Hacking | 🔒 |
 | 30 | Pós Exploração | 🔒 |
 | 31 | Engenharia Social | 🔒 |
-| 32 | O Profissional: Conduzindo o Pentest | 🔒 |
-| 33 | Conclusão | 🔒 |
-| 34 | Por dentro da nossa área de serviços | 🔒 |
-| 35 | Bônus: Introdução - WiFi Hacking | 🔒 |
 
 ---
 
