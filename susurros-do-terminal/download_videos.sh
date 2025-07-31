@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BASE_URL="https://cdn.pandavideo.com/vz-f1141f64-bae/2f5f73d5-64f3-4988-a2cb-b95b6f575e5b/1920x1080"
-REFERER="https://player-vz-f1141f64-bae.tv.pandavideo.com.br/"
+BASE_URL=""
+REFERER=""
 
 mkdir -p partes
 
@@ -11,7 +11,7 @@ for i in $(seq -w 1 100); do
 
     curl -s -L -o "partes/$FILE" \
       "$BASE_URL/$FILE" \
-      -H "authority: cdn.pandavideo.com" \
+      -H "authority: " \
       -H "accept: */*" \
       -H "accept-language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7" \
       -H "origin: $REFERER" \
