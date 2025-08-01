@@ -81,8 +81,8 @@ Ele pode estar:
 
 | 🔢 Módulo | 📂 Conteúdo | 📌 Status |
 |------|---------|--------|
-| 00 | [📎 Introdução ao Penetration Testing](./introducao-ao-pentest/README.md) | 🔓 |
-| 01 | [📎 Dominando o prompt do Windows] | 🔒 |
+| 00 | [📎 Introdução ao Penetration Testing](./introducao-ao-pentest) | 🔓 |
+| 01 | Dominando o prompt do Windows | 🔒 |
 | 02 | Analisadores de Protocolos | 🔒 |
 | 03 | Bash Scripting (Linux) | 🔒 |
 | 04 | PowerShell para Pentesters | 🔒 |
