@@ -115,8 +115,3 @@ Ele pode estar:
 | 31 | Engenharia Social | 🔒 |
 
 ---
-
-## ⚠️ Disclaimer
-
-Todo o conteúdo aqui é **apenas para fins educacionais**.  
-**Nunca use as técnicas descritas aqui em ambientes ou sistemas sem permissão explícita.**
